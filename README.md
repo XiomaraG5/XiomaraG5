@@ -16,10 +16,10 @@ const aboutMe = {
       tools: ["Redux", "Redux-Saga", "Git", "GitHub"],
       
       backEnd: {
-      misc: ["Firebase", "Strapi"]
+        misc: ["node.js", "MongoDB", "Firebase", "Strapi"]
     },
    },
-   currentOccupation: ["Frontent developer in Gabby Parrot S.A.S"],
+   currentOccupation: ["Frontent developer Soluciones Navacom S.A.S"],
    
 };
 ```
