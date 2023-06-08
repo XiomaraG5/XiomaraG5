@@ -10,7 +10,7 @@ const aboutMe = {
    code: [Javascript,  HTML, CSS],
    technologies: {
       frontEnd: {
-         js: ["React"],
+         js: ["React", "React-Native"],
          css: ["Chackra UI", "Bootstrap", "SSAS"]
       },
       tools: ["Redux", "Redux-Saga", "Git", "GitHub"],
