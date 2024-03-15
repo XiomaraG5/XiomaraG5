@@ -19,15 +19,14 @@ const aboutMe = {
         misc: ["node.js", "MongoDB", "Firebase", "Strapi"]
     },
    },
-   currentOccupation: ["Frontent developer Soluciones Navacom S.A.S"],
+   currentOccupation: ["CTO, CO-FOUNDER en HILOAPP "],
    
 };
 ```
 You can findme 🌎:
 - [linkedIn](https://www.linkedin.com/in/xiomara-garcia-32a0281b5?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BjPj6VwoJTNm0%2BZ%2FsxRgn2g%3D%3D)
 - [Portfolio](https://xiomarag.netlify.app/)
+- [Hilo](https://hilo.cool/)
 <!--
-
-challenge: "I'm working towards being able to run a marathon.",
 mobile: ["React-Native"],
 -->
