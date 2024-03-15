@@ -19,7 +19,7 @@ const aboutMe = {
         misc: ["node.js", "MongoDB", "Firebase", "Strapi"]
     },
    },
-   currentOccupation: ["CTO, CO-FOUNDER en HILOAPP "],
+   currentOccupation: ["CTO, CO-FOUNDER in HILOAPP "],
    
 };
 ```
